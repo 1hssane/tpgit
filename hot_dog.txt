@@ -1,0 +1,5 @@
+Ingrédients pour un hot-dog :
+ - Saucisse
+ - Pain à hot-dog
+ - Moutarde
+ - Ketchup
